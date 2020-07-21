@@ -1,3 +1,3 @@
 # TimelineResume
 
-# CSS Transitions, Scroll In Animation with JavaScript
+# CSS Transitions, Scroll-In Animation with JavaScript
